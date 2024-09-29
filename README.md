@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and learing to code as I'm new.
 - 🌱 I’m currently learning WebDev and New Languages.
 - 💞️ I’m looking to collaborate on various projects and hackathons.
-- 📫 How to reach me - insta @_.uditt, snap @vats.udit
+- 📫 How to reach me -Snap @vats.udit
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm open to talk with.
 
