@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @udit0vats
-- 👀 I’m interested in music and learing to code as im new
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me - insta @_.uditt
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Udit. @udit0vats
+- 👀 I’m interested in music and learing to code as I'm new.
+- 🌱 I’m currently learning WebDev and New Languages.
+- 💞️ I’m looking to collaborate on various projects and hackathons.
+- 📫 How to reach me - insta @_.uditt, snap @vats.udit
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm open to talk with.
 
 <!---
 udit0vats/udit0vats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
